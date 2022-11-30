@@ -1,7 +1,7 @@
 # Problem Set 2, hangman.py
-# Name: 
+# Name: Dariia Belovol
 # Collaborators:
-# Time spent:
+# Time spent: 2 days
 
 # Hangman Game
 # -----------------------------------
